@@ -4,4 +4,8 @@
 
 The main code is [GeoGuards.ipynb](GeoGuards.ipynb)
 
-The Dataset is on 
+The FineTuning is [OpenAI_FineTuning.jsonl](OpenAI_FineTuning.jsonl)
+
+The DataSet is [RocksML.zip](RocksML.zip)
+
+Some Images for testing is []()
