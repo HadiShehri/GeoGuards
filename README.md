@@ -8,4 +8,4 @@ The FineTuning is [OpenAI_FineTuning.jsonl](OpenAI_FineTuning.jsonl)
 
 The DataSet is [Rocks%20ML](Rocks%20ML)
 
-Some Images for testing is []()
+Some Images for testing is [Test%20Images.rar](Test%20Images.rar)
